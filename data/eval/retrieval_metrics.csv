@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score
+TF-IDF + Cosine Similarity,1.0,1.0,1.0,1.0
