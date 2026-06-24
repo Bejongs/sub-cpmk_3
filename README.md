@@ -233,6 +233,7 @@ Similarity between cases is computed using TF-IDF and Cosine Similarity.
 ## Author
 
 Maulana Bima Hedy Pratama (202310370311123)
+
 Novita Dian Nazarina (202310370311395)
 
 Informatics Engineering
